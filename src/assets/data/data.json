@@ -1,0 +1,51 @@
+{
+  "user": {
+    "name": "Lucas",
+    "surname": "Villegas",
+    "description": "¡Hola! Mi nombre es Lucas Villegas y actualmente me encuentro trabajando como administrativo contable. En mi tiempo libre me dedico a estudiar y realizar cursos y/o prácticas de Frontend developer en plataformas como Udemy, FreeCodeCamp, Frontend Mentor, entre otras. Angular es mi framework de preferencia y suelo usarlo mucho con typescript, también me encanta cuando las cosas quedan estéticamente bien o tienen armonía. Tiendo a fijarme mucho en los detalles lo que me hace querer estar en constante aprendizaje. Sí querés saber más sobre mí te invito a pasarte por mi perfil en",
+    "skills": [
+      {
+        "soft": ["Trabajo en equipo, Gestión del tiempo", "Autodidacta"],
+        "tech": ["HTML", "CSS", "JS", "TS", "Angular"],
+        "others": ["Excel", "Photoshop", "Sony Vegas Pro"]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Portfolio",
+        "description": "Este fué mi proyecto Fullstack para Argentina Programa con Angular/Java. *Paciencia con el backend, carga lento*",
+        "img": "https://lucasdvillegas.github.io/assets/img/background/project3.jpg",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "Typescript"],
+        "repositoryLink": "https://github.com/lucasdvillegas/portfolio-FrontEnd",
+        "deployLink": "https://incomparable-froyo-0c5121.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Card",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque modi quidem optio. Lorem ipsum dolor.",
+        "img": "https://lucasdvillegas.github.io/assets/img/background/project2.jpg",
+        "technologies": ["HTML", "CSS", "JavaScript", "Angular", "Typescript"],
+        "repositoryLink": "https://github.com/lucasdvillegas/portfolio-FrontEnd",
+        "deployLink": "https://incomparable-froyo-0c5121.netlify.app/"
+      },
+      {
+        "title": "Gifs app",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque modi quidem optio. Lorem ipsum dolor",
+        "img": "https://lucasdvillegas.github.io/assets/img/background/project1.jpg",
+        "technologies": ["HTML", "CSS", "Angular", "Typescript"],
+        "repositoryLink": "https://github.com/lucasdvillegas/portfolio-FrontEnd",
+        "deployLink": "https://incomparable-froyo-0c5121.netlify.app/"
+      }
+    ],
+    "practices": [
+      {
+        "title": "Hola mundo!",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque modi quidem optio. Lorem ipsum dolor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSggK3yDU4cbluW078IlfIWpnvMjoTM-vhptA&usqp=CAU",
+        "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "Angular", "Typescript"],
+        "repositoryLink": "https://github.com/lucasdvillegas/portfolio-FrontEnd",
+        "deployLink": "https://incomparable-froyo-0c5121.netlify.app/"
+      }
+    ]
+  }
+
+}

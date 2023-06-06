@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--secondary-color);
+}
+
+::-webkit-scrollbar:hover {
+    filter: blur(45px);
+}
